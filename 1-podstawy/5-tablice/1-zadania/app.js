@@ -9,3 +9,5 @@ const addValueInArray = () => {
 
 addValueInArray();
 console.log(array + ' ' + array.length + array.indexOf(4));
+
+// zadanie 8 do zrobienia 1
